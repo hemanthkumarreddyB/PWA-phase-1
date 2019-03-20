@@ -1,0 +1,38 @@
+body{
+  background: #F50A22;
+}
+  .main{display: flex;
+  justify-content: center;
+}
+.left{
+    background: lightblue;
+
+  margin:3%;
+  padding: 5%;
+  border-radius: 5%;
+  text-align: center;
+  width: 25%;
+}
+.right{
+  background: #d5F10A;
+  width: 50%;
+  margin:3%;
+  padding: 5%;
+  border-radius: 5%;
+  text-align:left;
+}
+img{
+  width: 20%;
+  border-radius: 10%;
+
+}
+table{
+  width: 50%;
+  border: 2px solid red;
+  text-align: center;
+}
+table th,td {
+  border: 1px solid violet;
+  text-align:left;
+  border-collapse: collapse;
+}

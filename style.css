@@ -1,0 +1,30 @@
+body{
+  background-color:#13D510;
+}
+.jithu{
+  display: flex;
+  justify-content: space-around;
+}
+.hemu{
+  border: 2px solid blue;
+  text-align: center;
+width: 30%;
+box-shadow: 5px 5px red;
+margin: 1%;
+}
+img{
+  width:100%;
+}
+@media screen and (min-width:320px)and(max-width:640px) {
+  .jithu{
+
+    flex-wrap: wrap;
+  }
+  .hemu{
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  }
+
+
+}

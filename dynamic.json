@@ -1,0 +1,44 @@
+{
+"basic":{
+"img":"images/boy.jpg",
+"name":"hemanth",
+"email":"hemanth.reddy1154@gmail.com"
+},
+"career":{
+  "info":"i want to seek a position where i can explore my thoughts and skills foe the benifits of the organization"
+},
+"education":[
+  {
+   "sno":"1",
+   "degree":"B.Tech",
+   "institute":"mits",
+   "per":"82 "
+  },
+  {
+    "sno":"2",
+    "degree":"intermediate",
+    "institute":"SSRJC",
+    "per":"82"
+  },
+  {
+  "sno":"3",
+  "degree":"SSC",
+  "institute":"S.P.V.B",
+  "per":"82"
+  }
+],
+    "skills":[
+  {
+    "info":"c"
+  },
+  {
+    "info":"c++"
+  },
+  {
+    "info":"java"
+  },
+  {
+    "info":"python"
+  }
+    ]
+  }
